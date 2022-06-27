@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="847dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/minuteworkoutappbackground" />
+        android:src="@drawable/minuteworkoutappbackground"
+        android:contentDescription="@string/todo" />
 
 
 
