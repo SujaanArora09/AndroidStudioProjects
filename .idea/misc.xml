@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/circular_progress_bar_gray.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/excersise_image_boundary.xml" value="0.1395" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.166" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_white_border_background.xml" value="0.166" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_white_border_green_background.xml" value="0.166" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/menu_item_background.xml" value="0.1" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/ready_button_background.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/start_button_background.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/start_button_background_when_clicked.xml" value="0.16" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/yes_button_back.xml" value="0.166" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout-v23/activity_bmi.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout-v23/fragment_bmi.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_bmi.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.176" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_finish.xml" value="0.136" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/dialog_custom_back_conformation.xml" value="0.2" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/fragment_bmi.xml" value="0.4" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/fragment_bmi_calculator.xml" value="0.21480582524271843" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.2" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/sidemenuheader.xml" value="0.264" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/menu/sidemenu.xml" value="0.4" />
+        <entry key="..\:/Users/India/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

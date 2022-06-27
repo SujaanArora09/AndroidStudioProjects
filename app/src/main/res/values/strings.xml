@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">7MinutesWorkout</string>
+    <string name="start">START</string>
+    <string name="top_image_of_first_page_of_app">Top Image of first page of app</string>
+    <string name="get_ready">Get Ready</string>
+    <string name="_10">10</string>
+    <string name="_60">60</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="upcoming_exercise">Upcoming Exercise</string>
+    <string name="name_of_upcoming_exercise">Name Of Upcoming Exercise</string>
+    <string name="_1">1</string>
+    <string name="finish">FINISH</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="bigone">This will stop your workout.You\'ve came this far, are you sure you want to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="gap" />
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
